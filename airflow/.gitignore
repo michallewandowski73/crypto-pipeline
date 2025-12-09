@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow logs
+airflow/logs/
+
+# VS Code settings
+.vscode/
+
+# Docker volumes (if you mount any local)
+pgdata/
+metabase-data/
